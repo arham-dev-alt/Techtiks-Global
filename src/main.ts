@@ -227,4 +227,10 @@ const footerContactButtons = document.querySelectorAll<HTMLAnchorElement>("#cont
 footerContactButtons.forEach((button) => {
   button.setAttribute("data-contact-match", "");
 });
+const footerAiIconGroups = document.querySelectorAll<HTMLElement>(
+  "#contact .ft-nav-col.is-ai .ft-nav-link-w.is--ai",
+);
+footerAiIconGroups.forEach((group) => {
+  group.remove();
+});
 export {};
