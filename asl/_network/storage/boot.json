@@ -1,0 +1,46 @@
+{
+  "cookies": [
+    {
+      "domain": ".itsoffbrand.com",
+      "expires": 1816177111.443603,
+      "name": "_ga_MQEHBQREW4",
+      "path": "/",
+      "secure": false,
+      "value": "GS2.1.s1781617111$o1$g0$t1781617111$j60$l0$h0$dilb216FVTQ6OYmZacq3gezycqB9uDnSFGA"
+    },
+    {
+      "domain": ".www.itsoffbrand.com",
+      "expires": -1,
+      "name": "_cfuvid",
+      "path": "/",
+      "sameSite": "None",
+      "secure": true,
+      "value": "i3xLdmDuWJ3Vl67rC7CDvLKhIdb3liuwZ_nZp2liNCo-1781617110.2795591-1.0.1.1-3PqF457TqOpxZNbdjfB.Gj_uvjNgkQs.ap2moyx7oEg"
+    },
+    {
+      "domain": ".itsoffbrand.com",
+      "expires": 1816177111.444376,
+      "name": "_ga",
+      "path": "/",
+      "secure": false,
+      "value": "GA1.1.1098256617.1781617111"
+    }
+  ],
+  "localStorage": {
+    "intellimize_activity_117825735": "[{\"et\":\"pv\",\"uvs\":\"N\",\"ub\":63,\"pvid\":\"b8bb9ce1-70e3-4a96-baf4-881e029ffa9a\",\"sid\":\"1781617111-c6f0-90f0-54b816d56c6d\",\"t\":1781617111555,\"tz\":\"Asia/Karachi\",\"cs\":\"i\",\"hpurl\":\"https://www.itsoffbrand.com/\",\"hl\":\"en\",\"ts\":\"DN\",\"wfd\":\"www.itsoffbrand.com\",\"wfsid\":\"64cf4cc8c9b14fe4cb3c54b4\",\"wfpid\":\"64cf4cc8c9b14fe4cb3c54b7\"},{\"et\":\"c\",\"acid\":\"1781617122-6ba536fcda\",\"evid\":\"157081960\",\"eii\":\"157081960:1781617122-6ba536fcda\",\"uvs\":\"N\",\"ub\":63,\"pvid\":\"b8bb9ce1-70e3-4a96-baf4-881e029ffa9a\",\"sid\":\"1781617111-c6f0-90f0-54b816d56c6d\",\"t\":1781617121813,\"tz\":\"Asia/Karachi\",\"cs\":\"i\",\"hpurl\":\"https://www.itsoffbrand.com/\",\"hl\":\"en\",\"ts\":\"DN\",\"wfd\":\"www.itsoffbrand.com\",\"wfsid\":\"64cf4cc8c9b14fe4cb3c54b4\",\"wfpid\":\"64cf4cc8c9b14fe4cb3c54b7\"}]",
+    "intellimize_117825735": "{\"s\":{\"st\":1781617111,\"id\":\"1781617111-c6f0-90f0-54b816d56c6d\",\"t\":1781617122},\"vr\":2,\"c\":false,\"ct\":1781617111}",
+    "intellimize_data_tracking_type": "always",
+    "visited": "true",
+    "intellimize_tracking_policy": "always",
+    "intellimize_user_117825735": "5dcec2b415.1781617111",
+    "_gcl_ls": "{\"schema\":\"gcl\",\"version\":1,\"gtg_load_status\":{\"status\":2,\"expires\":1781703512606}}",
+    "intellimize_server_context_117825735": "{\"requestId\":\"bf242454-92d0-4bf8-b323-584c52a377d7\",\"clientIp\":\"43.242.103.66\",\"userAgentDigest\":\"dd78878bebc0e6afff80be96516511d7\",\"userAgent\":{\"deviceClass\":\"Desktop\",\"deviceName\":\"Apple Macintosh\",\"deviceBrand\":\"Apple\",\"osClass\":\"Desktop\",\"osName\":\"Mac OS\",\"osVersion\":\">=10.15.7\",\"agentClass\":\"Browser\",\"agentName\":\"Chrome\",\"agentVersionMajor\":\"122\"},\"location\":{\"countryIso\":\"PK\",\"countryName\":\"Pakistan\",\"subdivision1Iso\":\"PB\",\"subdivision1Name\":\"Punjab\",\"geonameId\":\"1179400\",\"cityName\":\"Faisalabad\",\"postalCode\":\"38000\"}}",
+    "intellimize_attributes_117825735": "{\"id\":\"5dcec2b415.1781617111\",\"custom\":{},\"internal\":{\"ts\":\"DN\"}}",
+    "intellimize_integrations_117825735": "{\"data\":{},\"meta\":{}}"
+  },
+  "schemaVersion": 2,
+  "sessionStorage": {
+    "preloaderHasRun": "true"
+  },
+  "valuesPersisted": "full"
+}

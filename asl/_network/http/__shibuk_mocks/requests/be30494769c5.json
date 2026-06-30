@@ -1,0 +1,46 @@
+{
+  "bodyEncoding": "utf8",
+  "bodyRef": {
+    "path": "/__shibuk_mocks/request-bodies/da39a3ee5e6b4b0d3255bfef95601890afd80709.txt",
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "size": 0
+  },
+  "contentType": "text/plain",
+  "lookupKey": "POST https://stats.g.doubleclick.net/g/collect?v=2&tid=G-MQEHBQREW4&cid=1098256617.1781617111&gtm=45g92e66c1v895136747za204zd895136747&rcb=15&aip=1&dma=0&gcd=13l3l3l3l1l1&npa=0&frm=0&tag_exp=115938465~115938468~117776794~118395335~119392696~119392704~119456239~119456247~119576886~119576890|body=da39a3ee5e6b",
+  "lookupKeys": [
+    "POST /g/collect?v=2&tid=G-MQEHBQREW4&cid=1098256617.1781617111&gtm=45g92e66c1v895136747za204zd895136747&rcb=15&aip=1&dma=0&gcd=13l3l3l3l1l1&npa=0&frm=0&tag_exp=115938465~115938468~117776794~118395335~119392696~119392704~119456239~119456247~119576886~119576890|body=da39a3ee5e6b",
+    "POST https://stats.g.doubleclick.net/g/collect?v=2&tid=G-MQEHBQREW4&cid=1098256617.1781617111&gtm=45g92e66c1v895136747za204zd895136747&rcb=15&aip=1&dma=0&gcd=13l3l3l3l1l1&npa=0&frm=0&tag_exp=115938465~115938468~117776794~118395335~119392696~119392704~119456239~119456247~119576886~119576890|body=da39a3ee5e6b"
+  ],
+  "method": "POST",
+  "normalizedRequest": {
+    "bodyHash": "da39a3ee5e6b",
+    "canonicalUrls": [
+      "/g/collect?v=2&tid=G-MQEHBQREW4&cid=1098256617.1781617111&gtm=45g92e66c1v895136747za204zd895136747&rcb=15&aip=1&dma=0&gcd=13l3l3l3l1l1&npa=0&frm=0&tag_exp=115938465~115938468~117776794~118395335~119392696~119392704~119456239~119456247~119576886~119576890",
+      "https://stats.g.doubleclick.net/g/collect?v=2&tid=G-MQEHBQREW4&cid=1098256617.1781617111&gtm=45g92e66c1v895136747za204zd895136747&rcb=15&aip=1&dma=0&gcd=13l3l3l3l1l1&npa=0&frm=0&tag_exp=115938465~115938468~117776794~118395335~119392696~119392704~119456239~119456247~119576886~119576890"
+    ],
+    "headerNames": [],
+    "method": "POST"
+  },
+  "pathname": "/g/collect",
+  "requestBodyHash": "da39a3ee5e6b",
+  "requestHeaders": {},
+  "responseHeaders": {
+    "access-control-allow-credentials": "true",
+    "access-control-allow-origin": "https://www.itsoffbrand.com",
+    "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+    "cache-control": "no-cache, no-store, must-revalidate",
+    "content-security-policy-report-only": "script-src 'none'; form-action 'none'; frame-src 'none'; report-uri https://csp.withgoogle.com/csp/scaffolding/ascnsrsggc:164:0",
+    "content-type": "text/plain",
+    "cross-origin-opener-policy-report-only": "same-origin; report-to=ascnsrsggc:164:0",
+    "cross-origin-resource-policy": "cross-origin",
+    "date": "Tue, 16 Jun 2026 13:38:32 GMT",
+    "expires": "Fri, 01 Jan 1990 00:00:00 GMT",
+    "pragma": "no-cache",
+    "report-to": "{\"group\":\"ascnsrsggc:164:0\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://csp.withgoogle.com/csp/report-to/scaffolding/ascnsrsggc:164:0\"}],}",
+    "server": "Golfe2"
+  },
+  "schemaVersion": 1,
+  "search": "?v=2&tid=G-MQEHBQREW4&cid=1098256617.1781617111&gtm=45g92e66c1v895136747za204zd895136747&rcb=15&aip=1&dma=0&gcd=13l3l3l3l1l1&npa=0&frm=0&tag_exp=115938465~115938468~117776794~118395335~119392696~119392704~119456239~119456247~119576886~119576890",
+  "status": 204,
+  "url": "https://stats.g.doubleclick.net/g/collect?v=2&tid=G-MQEHBQREW4&cid=1098256617.1781617111&gtm=45g92e66c1v895136747za204zd895136747&rcb=15&aip=1&dma=0&gcd=13l3l3l3l1l1&npa=0&frm=0&tag_exp=115938465~115938468~117776794~118395335~119392696~119392704~119456239~119456247~119576886~119576890"
+}

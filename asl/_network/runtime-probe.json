@@ -1,0 +1,21 @@
+{
+  "capturedAt": "2026-06-16T13:38:53.266Z",
+  "globals": {
+    "THREE": {
+      "revision": "156"
+    }
+  },
+  "loadEventFired": true,
+  "probeInjected": true,
+  "schemaVersion": "shibuk-runtime-probe/v1",
+  "unknownGlobals": [
+    {
+      "evidence": "VERSION=7938",
+      "globalName": "WebGLRenderingContext"
+    },
+    {
+      "evidence": "VERSION=7938",
+      "globalName": "WebGL2RenderingContext"
+    }
+  ]
+}

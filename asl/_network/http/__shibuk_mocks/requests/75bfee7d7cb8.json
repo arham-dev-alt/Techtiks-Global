@@ -1,0 +1,46 @@
+{
+  "bodyEncoding": "utf8",
+  "bodyRef": {
+    "path": "/__shibuk_mocks/request-bodies/da39a3ee5e6b4b0d3255bfef95601890afd80709.txt",
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "size": 0
+  },
+  "contentType": "text/plain",
+  "lookupKey": "POST https://analytics.google.com/g/s/collect?_gsid=ilb216FVTQ6OYmZacq3gezycqB9uDnSFGA&gtm=45g92e66c1v895136747za204zd895136747|body=da39a3ee5e6b",
+  "lookupKeys": [
+    "POST /g/s/collect?_gsid=ilb216FVTQ6OYmZacq3gezycqB9uDnSFGA&gtm=45g92e66c1v895136747za204zd895136747|body=da39a3ee5e6b",
+    "POST https://analytics.google.com/g/s/collect?_gsid=ilb216FVTQ6OYmZacq3gezycqB9uDnSFGA&gtm=45g92e66c1v895136747za204zd895136747|body=da39a3ee5e6b"
+  ],
+  "method": "POST",
+  "normalizedRequest": {
+    "bodyHash": "da39a3ee5e6b",
+    "canonicalUrls": [
+      "/g/s/collect?_gsid=ilb216FVTQ6OYmZacq3gezycqB9uDnSFGA&gtm=45g92e66c1v895136747za204zd895136747",
+      "https://analytics.google.com/g/s/collect?_gsid=ilb216FVTQ6OYmZacq3gezycqB9uDnSFGA&gtm=45g92e66c1v895136747za204zd895136747"
+    ],
+    "headerNames": [],
+    "method": "POST"
+  },
+  "pathname": "/g/s/collect",
+  "requestBodyHash": "da39a3ee5e6b",
+  "requestHeaders": {},
+  "responseHeaders": {
+    "access-control-allow-credentials": "true",
+    "access-control-allow-origin": "https://www.itsoffbrand.com",
+    "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+    "cache-control": "no-cache, no-store, must-revalidate",
+    "content-security-policy-report-only": "script-src 'none'; form-action 'none'; frame-src 'none'; report-uri https://csp.withgoogle.com/csp/scaffolding/ascnsrsggc:329:0",
+    "content-type": "text/plain",
+    "cross-origin-opener-policy-report-only": "same-origin; report-to=ascnsrsggc:329:0",
+    "cross-origin-resource-policy": "cross-origin",
+    "date": "Tue, 16 Jun 2026 13:38:32 GMT",
+    "expires": "Fri, 01 Jan 1990 00:00:00 GMT",
+    "pragma": "no-cache",
+    "report-to": "{\"group\":\"ascnsrsggc:329:0\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://csp.withgoogle.com/csp/report-to/scaffolding/ascnsrsggc:329:0\"}],}",
+    "server": "Golfe2"
+  },
+  "schemaVersion": 1,
+  "search": "?_gsid=ilb216FVTQ6OYmZacq3gezycqB9uDnSFGA&gtm=45g92e66c1v895136747za204zd895136747",
+  "status": 204,
+  "url": "https://analytics.google.com/g/s/collect?_gsid=ilb216FVTQ6OYmZacq3gezycqB9uDnSFGA&gtm=45g92e66c1v895136747za204zd895136747"
+}

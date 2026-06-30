@@ -1,0 +1,15 @@
+{
+  "dependencies": {},
+  "devDependencies": {
+    "vite": "^7.1.4",
+    "ws": "^8.18.3"
+  },
+  "name": "itsoffbrand-com.tmp-m99PKU",
+  "private": true,
+  "scripts": {
+    "build": "vite build",
+    "dev": "vite",
+    "preview": "vite preview"
+  },
+  "type": "module"
+}

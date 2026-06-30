@@ -1,0 +1,35 @@
+{
+  "capturedAt": "2026-06-16T13:38:53.276Z",
+  "detectedFramework": null,
+  "donorType": "static-bundled",
+  "donorUrl": "https://www.itsoffbrand.com/",
+  "largestFile": {
+    "bytes": 945190,
+    "path": "_external/cdn.prod.website-files.com/64cf4cc8c9b14fe4cb3c54b4/68ece3e91ef2f1125c5b57eb_lando-cs-hero-img.jpg"
+  },
+  "navigationFlow": [
+    {
+      "kind": "target",
+      "timestamp": "2026-06-16T13:38:28.703Z",
+      "url": "https://www.itsoffbrand.com/"
+    },
+    {
+      "kind": "landing",
+      "timestamp": "2026-06-16T13:38:41.258Z",
+      "url": "https://www.itsoffbrand.com/"
+    },
+    {
+      "kind": "final",
+      "timestamp": "2026-06-16T13:38:53.276Z",
+      "url": "https://www.itsoffbrand.com/"
+    }
+  ],
+  "schemaVersion": "shibuk-capture-meta/v1",
+  "shibukVersion": "3.4.2",
+  "totalAssetBytes": 16134994,
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/149.0.0.0 Safari/537.36",
+  "viewport": {
+    "height": 600,
+    "width": 800
+  }
+}
